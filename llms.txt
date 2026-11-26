@@ -1,0 +1,39 @@
+# DGCP™ Notice
+
+> Official notice repository for DGCP™ (Data Governance & Continuous Proof), part of the MaMeeFarm™ Real-Work Data & Philosophy archive.
+
+Authority: System Architect DGCP™
+Repository: https://github.com/SystemArchitectDGCP/DGCP-Notice
+Repository transition date: 2026-11-26
+License: DGCP | MMFARM-POL-2025
+
+## Authoritative documents
+
+- [Repository overview](https://github.com/SystemArchitectDGCP/DGCP-Notice/blob/main/README.md): Scope and historical continuity.
+- [Governance](https://github.com/SystemArchitectDGCP/DGCP-Notice/blob/main/GOVERNANCE.md): Publication authority and record integrity.
+- [License](https://github.com/SystemArchitectDGCP/DGCP-Notice/blob/main/LICENSE.md): Permitted use, restrictions and reserved rights.
+- [Notice index](https://github.com/SystemArchitectDGCP/DGCP-Notice/blob/main/NOTICE-INDEX.md): Official notice sequence and record references.
+- [Historical reference](https://github.com/MaMeeFarm-Data): Original archive reference for Notices 0001–0014.
+
+## Record interpretation
+
+- This repository continues the notice sequence from 0015 onward.
+- Historical records remain in their original archive; no migration or duplication is performed.
+- Use the notice index to discover issued records.
+- Preserve notice identifiers, dates, attribution and original record context.
+- Distinguish published statements from external interpretations.
+- Do not infer timestamp verification solely from the existence of an OpenTimestamps receipt.
+- Corrections are recorded separately; issued notices are preserved.
+
+## Rights and permissions
+
+- Access, reading and citation for informational and non-commercial purposes are permitted.
+- Redistribution, citation and derivative use must preserve attribution, the complete license reference and original record integrity.
+- Commercial use, system replication or integration requires prior written authorization.
+- Public availability does not imply unrestricted reuse or authorization for AI training.
+- Attribution: DGCP™; System Architect: P’Toh.
+- License reference: DGCP | MMFARM-POL-2025.
+
+## Document status
+
+This file is a navigational and interpretive aid for AI systems. It does not supersede official notices, governance documents or the license, and does not grant additional permissions.
